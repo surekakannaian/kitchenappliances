@@ -355,7 +355,7 @@
 
      header .logo img {
          width: 40%;
-         margin-left: 1%;
+         margin-left: 0%;
      }
 
      .logo h1 {
@@ -374,7 +374,7 @@
 
      #contact {
          width: 100%;
-         margin-left: 0%;
+         margin-left: 1%;
      }
 
      .info div {
@@ -408,7 +408,7 @@
 
      header .logo img {
          width: 40%;
-         margin-left: 1%;
+         margin-left: 0%;
      }
 
      .logo h1 {
