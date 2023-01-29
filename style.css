@@ -426,3 +426,14 @@
          width: 28%;
      }
  }
+ @media only screen and (max-width:400px) {
+    .right{
+        width: 60%;
+         justify-content: left;
+         position: relative;
+     }
+     header .right input[type=button] {
+        position: absolute;
+        right: 0;
+     } 
+ }
