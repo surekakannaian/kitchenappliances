@@ -352,6 +352,9 @@
         width: 60%;
          justify-content:left;
      }
+        header .right input {
+        padding-left: 1%;
+    }
      header .logo img {
          width: 20%;
          margin-left: 1%;
