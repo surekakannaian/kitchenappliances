@@ -351,7 +351,7 @@
     .right{
         width: 60%;
          justify-content:left;
-         background-color:blue;
+        
      }
         header .right input {
         padding-left: 1%;
@@ -360,7 +360,9 @@
          width: 20%;
          margin-left: 1%;
      }
-
+ header .right input[type=button] {
+     padding: 2.25% 2%;
+ }
      .logo h1 {
          font-size: 30%;
          margin-top: 12%;
