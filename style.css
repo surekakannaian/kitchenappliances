@@ -350,6 +350,7 @@
      }
     .right{
         width: 60%;
+         justify-content:left;
      }
      header .logo img {
          width: 20%;
