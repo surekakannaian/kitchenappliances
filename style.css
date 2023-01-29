@@ -351,6 +351,7 @@
     .right{
         width: 60%;
          justify-content:left;
+         background-color:blue;
      }
         header .right input {
         padding-left: 1%;
